@@ -1,0 +1,164 @@
+{
+  "personalInfo": {
+    "name": "Mahammad Nowfal",
+    "phone": "9743794934",
+    "email": "nowfalboliyar@gmail.com",
+    "location": "Mangalore, Karnataka",
+    "dateOfBirth": "1995-07-21",
+    "languagesKnown": ["English", "Kannada", "Tamil", "Malayalam"]
+  },
+  "careerObjective": "Experienced Flutter developer with a passion for creating elegant and functional mobile applications. Seeking to leverage expertise in Dart programming, UI/UX design principles, and mobile app development to contribute to innovative projects.",
+  "workExperience": [
+    {
+      "company": "Cholamandalam",
+      "location": "Chennai",
+      "designation": "Senior Software Engineer (Flutter Developer)",
+      "duration": "Jun 2024 – Present"
+    },
+     {
+      "company": "Groony India Pvt Ltd",
+      "location": "Bangalore",
+      "designation": "Software Engineer (Flutter Developer)",
+      "duration": "Jul 2022 – May 2024"
+    },
+    {
+      "company": "Mindstack Pvt Ltd",
+      "location": "Mangalore",
+      "designation": "Software Developer (Flutter Developer)",
+      "duration": "Jul 2021 – Jun 2022"
+    },
+    {
+      "company": "JefBox Pvt Ltd",
+      "location": "Mangalore",
+      "designation": "Software Developer (Flutter Developer)",
+      "duration": "Jul 2020 – Jun 2021"
+    },
+    {
+      "company": "Technopulse Pvt Ltd",
+      "location": "Mangalore",
+      "designation": "Software Developer (Android Application Developer)",
+      "duration": "Sep 2019 – July 2020"
+    }
+  ],
+  "education": [
+    {
+      "degree": "MCA",
+      "institution": "Mangalore University",
+      "percentage": "74%",
+      "year": 2019
+    },
+    {
+      "degree": "BCA",
+      "institution": "P.A. First Grade College",
+      "percentage": "63%",
+      "year": 2016
+    }
+  ],
+  "courses": [
+    {
+      "courseName": "Web Technologies",
+      "topics": ["HTML", "CSS", "Bootstrap", "JSP", "Java", "Servlet"]
+    }
+  ],
+  "skills": [
+    "Flutter/Dart: Strong expertise in building cross-platform mobile applications with MVC, MVVM architecture and maintainable code.",
+    "Dart Programming & Design Concepts: Solid understanding of Dart language features, asynchronous programming, and effective design practices.",
+    "State Management: Hands-on experience with Bloc, GetX, and Provider for managing complex application states.",
+    "AI-Powered Applications: Experience in developing AI-driven mobile applications, including integration of AI APIs (e.g., OpenAI) for intelligent features like text processing.",
+    "Payment Gateway Integration: Implemented secure online payments using Razorpay, Cashfree.",
+    "Google Maps Integration: Built location-based features including geolocation, live tracking, and route mapping.",
+    "Firebase Services: Skilled in implementing Firebase Authentication, Firestore Database, Analytics, and Push Notifications.",
+    "API Integration: Experienced in integrating REST APIs and handling real-time data efficiently.",
+    "SMS Gateway Integration: Developed messaging features using third-party SMS gateways.",
+    "Third-Party Libraries: Extensive usage of popular libraries such as http, provider, firebase_core, etc.",
+    "Flutter Web: Experience in building responsive web applications using Flutter and deploying them to production.",
+    "IoT Applications: Exposure to developing IoT-based solutions with Flutter for connected devices.",
+    "AWS Services: Knowledge of deploying and managing applications on AWS cloud infrastructure.",
+    "Version Control: Proficient with Git and GitHub for collaborative development, version control, and CI/CD workflows.",
+    "App Deployment: Experienced in publishing and distributing apps on Google Play Store and Apple TestFlight for testing and production release."
+  ],
+  "projects": [
+    {
+      "name": "Cholamandalam Finance – Loan Collection Application (Flutter Web CCP)",
+      "description": "Developed a Flutter Web application for field agents to collect payments against customer loans across products such as Home Loan, Loan Against Property, Vehicle Loan, and Gold Loan. Integrated payment gateways (Razorpay, Cashfree) and backend REST APIs to process real-time loan repayments. Implemented role-based authentication and secure loan account management with API-driven architecture. Deployed the application on AWS with GitHub version control."
+    },
+    {
+      "name": "Fintech Applications (Paygro, eInvest, Simplus)",
+      "description": "Android and iOS applications helping users invest in the stock market. Technologies used: Flutter, SMS gateway, social login, REST API, Bloc. Responsible for front-end design, API integration, expense tracker feature, and Play Store deployment."
+    },
+    {
+      "name": "Real Estate Application",
+      "description": "Android and iOS application for users to find homes, villas, etc. Technologies used: Flutter, REST API, Firebase push notification, Bloc pattern. Responsible for complete app development excluding backend and deployment to Play Store (Brighthome)."
+    }
+  ],
+  "releasedApps": [
+    {
+      "name": "CCP",
+      "link": "https://ccp.chola.murugappa.com"
+    },
+    {
+      "name": "Paygro",
+      "link": "https://play.google.com/store/apps/details?id=in.paygro.android"
+    },
+    {
+      "name": "eInvest",
+      "link": "https://play.google.com/store/apps/details?id=com.edelweissmf.einvest"
+    },
+    {
+      "name": "Simplus",
+      "link": "https://play.google.com/store/apps/details?id=com.iw.simplus"
+    }
+  ],
+  "flutterPackages": [
+    {
+      "name": "text_field_validator",
+      "link": "https://pub.dev/packages/text_field_validator"
+    }
+  ],
+  "toolsUsed": [
+    "Android studio",
+    "xCode",
+    "Github",
+    "Source tree",
+    "F-Chair",
+    "Microsoft Teams",
+    "Chatwork",
+    "Google meet",
+    "Eclipse",
+    "Visual basic",
+    "Visual studio",
+    "Flutter",
+    "Dart",
+    "Flutter Web",
+    "Java",
+    "HTML",
+    "PHP",
+    "XML",
+    "RESTful API",
+    "SMS gateway",
+    "Payment gateway",
+    "Firebase",
+    "Push notification",
+    "Firebase realtime database",
+    "Firebase auth",
+    "Social login",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "Adobe design",
+    "Gmail",
+    "Outlook",
+    "SQLite",
+    "SQFLite",
+    "Test flight",
+    "MySQL",
+    "Hive",
+    "Shared preferences",
+    "GetX",
+    "Freezed",
+    "Retrofit",
+    "Dio",
+    "HTTP",
+    "FL Chart",
+    "Database management"
+  ]
+}
