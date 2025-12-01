@@ -15,7 +15,7 @@
     the `--base-href` argument provided to `flutter build`.
   -->
   <!-- <base href="/"> -->
-  <base href="https://naaf-44.github.io/">
+  <base href="https://naaf-44.github.io/portfolio/">
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
@@ -37,11 +37,21 @@
 
   <title>Portfolio</title>
   <link rel="manifest" href="manifest.json">
+
+  <script>
+    // Change this for each new build.
+    const buildVersion = new Date().toLocaleString().replace(/[\s/:]/g, "_");
+
+    // Flutter loader config override (for cache busting)
+    window.flutterLoaderConfig = {
+      entrypointUrl: `main.dart.js?v=${buildVersion}`,
+      serviceWorker: {
+        serviceWorkerVersion: buildVersion
+      }
+    };
+  </script>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
 </body>
 </html>
-
-
-
