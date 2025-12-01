@@ -5,7 +5,7 @@
     "email": "nowfalboliyar@gmail.com",
     "location": "Mangalore, Karnataka",
     "dateOfBirth": "1995-07-21",
-    "languagesKnown": ["English", "Kannada", "Tamil", "Malayalam", "Hindi", "Byari"]
+    "languagesKnown": ["English", "Kannada", "Tamil", "Malayalam", "Hindi"]
   },
   "careerObjective": "Experienced Flutter developer with a passion for creating elegant and functional mobile applications. Seeking to leverage expertise in Dart programming, UI/UX design principles, and mobile app development to contribute to innovative projects.",
   "workExperience": [
@@ -162,4 +162,5 @@
     "Database management"
   ]
 }
+
 
